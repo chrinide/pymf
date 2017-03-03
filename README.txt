@@ -25,10 +25,7 @@ PyMF currently includes the following methods:
 
 Where to get it
 ---------------
-
-* Main website, documentation:  http://pymf.googlecode.com
 * Contact email: cthurau at googlemail.com
-
 
 Requires
 --------
