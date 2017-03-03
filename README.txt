@@ -25,7 +25,10 @@ PyMF currently includes the following methods:
 
 Where to get it
 ---------------
+
 * Contact email: cthurau at googlemail.com
+
+---------------
 
 Requires
 --------
